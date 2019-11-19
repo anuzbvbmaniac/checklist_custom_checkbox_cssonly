@@ -2,6 +2,6 @@
   CSS3 ONLY
   <strong> UI Screenshots </strong>
   <p>
-    <img src="http://prntscr.com/pz9tru"/>
+    <img src="screenshots/img1.png"/>
   <p>
   
